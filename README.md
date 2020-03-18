@@ -9,5 +9,6 @@ The VM could be found [here](https://archive.org/details/CuckooVM).
 **Installation:**
 Just import into VMWare (tested), add a Windows System (preferably Windows 7) and run.
 
+Or read the blog post found [here](http://bit.ly/HowtoUseCuckooVM2).
 
 Enjoy!
