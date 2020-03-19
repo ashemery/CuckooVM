@@ -7,8 +7,8 @@ If you've ever wanted to run Cuckoo but couldn't afford dedicating a full workst
 The VM could be found [here](https://archive.org/details/CuckooVM).
 
 **Installation:**
-Just import into VMWare (tested), add a Windows System (preferably Windows 7) and run.
+Just import into VMWare (tested), add a Windows System (preferably Windows 7) and run. Or read the blog post found [here](http://bit.ly/HowtoUseCuckooVM2).
 
-Or read the blog post found [here](http://bit.ly/HowtoUseCuckooVM2).
+If you are using an INTEL based Architecture, then please download this Windows 7 VM from [here](http://bit.ly/2w9Sih5).
 
 Enjoy!
