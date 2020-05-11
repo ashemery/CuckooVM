@@ -11,4 +11,6 @@ Just import into VMWare (tested), add a Windows System (preferably Windows 7) an
 
 If you are using an INTEL based Architecture, then please download this Windows 7 VM from [here](http://bit.ly/2w9Sih5).
 
+Was announced [here](https://twitter.com/binaryz0ne/status/1239988679692738561).
+
 Enjoy!
